@@ -1,4 +1,6 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJrZWg1NXUwNTB4aHh6aDIyaDM3dzVrNnkyZWdpdjFkMHhsMGtqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZH82yukB6v8xq/giphy.webp" width="100%" />
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJrZWg1NXUwNTB4aHh6aDIyaDM3dzVrNnkyZWdpdjFkMHhsMGtqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZH82yukB6v8xq/giphy.webp" width="900" />
+</p>
 
 ## Hi there 👋 I'm Rayan
 
