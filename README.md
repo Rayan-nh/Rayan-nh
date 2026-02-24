@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmIwaWw1NDJzbXpheDU2djluNWdqd2gzcjVmdGcyeTRmM3F5OGN3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" width="600" />
+  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmIwaWw1NDJzbXpheDU2djluNWdqd2gzcjVmdGcyeTRmM3F5OGN3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJrZWg1NXUwNTB4aHh6aDIyaDM3dzVrNnkyZWdpdjFkMHhsMGtqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZH82yukB6v8xq/giphy.webp)" width="600" />
 </p>
 
 ## Hi there 👋 I'm Rayan
