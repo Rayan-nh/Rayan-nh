@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Rayan
 
-<!--
-**Rayan-nh/Rayan-nh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 Studying Software Engineering  
+- 🔭 I’m currently working on developing a web-based application  
+- 💡 Interested in building practical and scalable software solutions  
+- 🤝 Open to collaboration and learning opportunities  
+- 🌍 Based in Türkiye
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Java  
+- Python  
+- MySQL  
+- Git & GitHub  
+- SDLC  
+## 📈 Goals
+ Aim to grow into a well-rounded software developer by gaining hands-on experience, working on real-world projects, and continuously expanding my technical and problem-solving skills.
+ 
+ ## 📫 Connect With Me
+ - LinkedIn: www.linkedin.com/in/rayannouh
