@@ -1,7 +1,7 @@
 
 ## Hi there 👋 I'm Rayan
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmIwaWw1NDJzbXpheDU2djluNWdqd2gzcjVmdGcyeTRmM3F5OGN3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" width="500" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
 
 ## 🚀 About Me
 
